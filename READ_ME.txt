@@ -2,7 +2,7 @@ This project was done by Tzi Siong Leong (20753794) and Jason Chao (21397806)
 
 The collision matrix project file is mainfileOMPAndMPI.cpp with finalNeighbors.cpp and type.h as the accompanying files.
 
-To compile and run our code use the following commmand lines
+To compile and run our code use the following commmand lines:
 
 mpic++ -fopenmp -std=c++11 mainfileOMPAndMPI.cpp -o mainfileOMPAndMPI
 
